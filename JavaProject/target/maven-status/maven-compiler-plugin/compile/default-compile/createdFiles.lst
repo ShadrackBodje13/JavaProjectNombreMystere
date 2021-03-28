@@ -1,0 +1,5 @@
+com\ynov\game\Game.class
+com\ynov\mode\ModeIA.class
+com\ynov\mode\ModePerso.class
+com\ynov\game\GameTest.class
+com\ynov\game\Play.class
